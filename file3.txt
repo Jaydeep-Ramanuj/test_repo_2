@@ -1,0 +1,2 @@
+This is file three
+This is new line in File3
